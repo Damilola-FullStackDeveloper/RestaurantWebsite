@@ -43,6 +43,8 @@ header{
     justify-content: space-between;
     padding: 15px 10%;
     transition: 0.2s;
+    background: rgba(22, 185, 120, 0.5);
+    backdrop-filter: blur(10px);
 }
 
 header.active {
